@@ -17,13 +17,13 @@
 
    <div class="container mt-3">
     
-   <a href="{{route('buku.create')}}" class="btn btn-success mb-2">Tambah</a>
-    <a href="{{route('buku.cetak')}}" target="_blank" class="btn btn-primary mb-2">Cetak</a>
+   <a href="{{route('buku.create')}}" class="btn btn-warning mb-2">Tambah</a>
+    <a href="{{route('buku.cetak')}}" target="_blank" class="btn btn-success mb-2">Cetak</a>
     
    
    
     <table class="table table-striped ">
-        <thead class="thead-dark">
+        <thead class="thead-danger">
           <tr>
             <th scope="col">NO</th>
             <th scope="col">Gambar Sapul</th>
