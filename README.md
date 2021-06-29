@@ -3,7 +3,7 @@
 - NIM   : 18090061
 - Kelas : 6B
 - Link  : suratkluar.herokuapp.com/login
-- pdf   : https://drive.google.com/drive/u/0/folders/1btB3FJ6XdOjnRa8f7bpyPKM4tsyE9HIW
+- pdf   : https://drive.google.com/drive/folders/1btB3FJ6XdOjnRa8f7bpyPKM4tsyE9HIW?usp=sharing
 
 #### Tools
 - Laravel       : Framework PHP
