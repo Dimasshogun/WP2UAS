@@ -12,7 +12,7 @@
 </head>
 <body>
 
-    <h2 class="text-center">Aplikasi Surat Masuk</h2>
+    <h2 class="text-center">Aplikasi Surat Keluar</h2>
     <p class="font-weight-light text-center">DIMAS SHOFA GUNARSO (18090061)</p>
 
    <div class="container mt-3">
