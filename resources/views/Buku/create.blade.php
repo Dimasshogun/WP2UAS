@@ -12,7 +12,7 @@
     @cloudinaryJS
 </head>
 <body>
-  <h4 class="text-center">Form Tambah Data Buku</h4>
+  <h4 class="text-center">Form Tambah Surat Keluar</h4>
     <div class="container mt-3">
         <form action="{{route('buku.store')}} " method="POST" enctype="multipart/form-data">
             @csrf

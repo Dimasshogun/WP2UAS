@@ -11,7 +11,7 @@
             border: 1px solid #543535;
         }
     </style>
-    <title>Cetak Data Buku</title>
+    <title>Cetak Data Surat Keluar</title>
 </head>
 <body>
         <div>
